@@ -1,1 +1,1 @@
-# translations.js
+# Indonesian Language
